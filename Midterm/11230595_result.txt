@@ -1,0 +1,4 @@
+
+full_name: Nguyen Thi Thu Trang
+class: DSEB65A
+id: 11230595
